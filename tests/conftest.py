@@ -1,6 +1,5 @@
 import pytest
 from selene import browser
-from selene.support import webdriver
 from selenium import webdriver
 
 
